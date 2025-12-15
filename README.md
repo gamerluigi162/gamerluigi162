@@ -26,8 +26,9 @@
   - [New Anglia Jam Website 2025](https://sites.google.com/gapps.suffolk.ac.uk/new-anglia-jam-2025/home?authuser=0)
 <h4>For This Games Jam, Our Team Won Crowd Favourite For Our Game Slime Split!</h4>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Contact me:</h2>
 
+- email: [tjcollingwood25@gmail.com](tjcollingwood25@gmail.com)
 - youtube: [Gamerluigi25](https://www.youtube.com/@gamerluigi2569)
 - instagram: [Gamerluigi25](https://www.instagram.com/gamerluigi25)
 - linkedin: [Trenton Collingwood](https://linkedin.com/in/trenton-collingwood-6a160b343)
