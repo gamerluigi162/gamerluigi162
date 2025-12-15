@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trenton! =
+<h1>Hi, I'm Trenton! 
 
 <h2>👨‍💻 Video Games Development Projects (College Year 1):</h2>
 
@@ -18,24 +18,16 @@
   - [Download Link](https://github.com/joshmadakor1/EncrypterPOC)
   - [Tumblr Blog Link](https://2025tjcfmp.tumblr.com/)
 
-<h2> 👨‍💻Games Jams I Have Participated In:</h2>
-- <b>Games Anglia Jam 2025</b>
+<h2>👨‍💻 Games Jams I Have Participated In</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>New Anglia Jam 2025</b>
+  - [Itch.io Page](https://theslimeguys.itch.io/slime-split)
+  - [Itch.io Jam Page](https://itch.io/jam/new-anglia-jam-2025)
+  - [New Anglia Jam Website 2025](https://sites.google.com/gapps.suffolk.ac.uk/new-anglia-jam-2025/home?authuser=0)
+<h4>For This Games Jam, Our Team Won Crowd Favourite For Our Game Slime Split!</h4>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Gamerluigi162 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Trenton Collingwood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Trenton Collingwood | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/@gamerluigi2569
-[instagram]: https://www.instagram.com/gamerluigi25/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- youtube: [Gamerluigi25](https://www.youtube.com/@gamerluigi2569)
+- instagram: [Gamerluigi25](https://www.instagram.com/gamerluigi25)
+- linkedin: [Trenton Collingwood](https://linkedin.com/in/trenton-collingwood-6a160b343)
